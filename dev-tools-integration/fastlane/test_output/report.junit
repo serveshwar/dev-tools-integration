@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='dev-tools-integrationUITests.xctest' tests='3' failures='0'>
+  <testsuite name='dev_tools_integrationTests.dev_tools_integrationTests' tests='2' failures='0'>
+    <testcase classname='dev_tools_integrationTests.dev_tools_integrationTests' name='testExample' time='0.001'/>
+    <testcase classname='dev_tools_integrationTests.dev_tools_integrationTests' name='testPerformanceExample' time='0.327'/>
+  </testsuite>
+  <testsuite name='dev_tools_integrationUITests.dev_tools_integrationUITests' tests='1' failures='0'>
+    <testcase classname='dev_tools_integrationUITests.dev_tools_integrationUITests' name='testExample' time='4.954'/>
+  </testsuite>
+</testsuites>
